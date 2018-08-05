@@ -1,0 +1,58 @@
+h1 {
+    text-align: center;
+    font-family: 'Kirang Haerang', cursive;
+}
+
+h2 {
+    margin-left: 50px;
+    margin-bottom: 50px;
+    font-family: 'Kirang Haerang', cursive;
+    font-size: 70px;
+
+}
+
+.col-sm-12 {
+    margin-left: -500px;
+}
+
+#chorizo {
+    padding-left: 60px;
+}
+
+form {
+    padding-left: 60px;
+}
+
+body {
+    background-image: url("../images/burger.jpg");
+    margin: 0px;
+
+  }
+
+  .container {
+      background-color: black;
+      color: white;
+      padding-top: 50px;
+  }
+
+  .jumbotron {
+    background-color: black;
+    color: #ffff;    
+    
+  }
+
+  .eaten {
+      background-color: black;
+      font-family: 'Kirang Haerang', cursive;
+      font-size: 30px;
+
+  }
+
+  .addBurgerButton {
+      background-color: black;
+      font-family: 'Kirang Haerang', cursive;
+      font-size: 30px;
+    
+  }
+
+
