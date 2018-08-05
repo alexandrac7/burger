@@ -9,9 +9,12 @@ CREATE TABLE burgers
 	PRIMARY KEY (id)
 );
 
-INSERT INTO burgers (burger_name) VALUES ('Double Double');
-INSERT INTO burgers (burger_name) VALUES ('Double Double Animal Style');
-INSERT INTO burgers (burger_name, devoured) VALUES ('Chorizo Burger', true);
-INSERT INTO burgers (burger_name, devoured) VALUES ('Vitamin B', true);
-INSERT INTO burgers (burger_name, devoured) VALUES ('The Cheech', false);
-INSERT INTO burgers (burger_name) VALUES ('Black Bean Burger');
+INSERT INTO burgers (burger_name) VALUES ('Mission A-Corn-Plished Burger');
+INSERT INTO burgers (burger_name) VALUES ('Rest in Peas Burger');
+INSERT INTO burgers (burger_name, devoured) VALUES ('Fig-eta Bout It Burger');
+INSERT INTO burgers (burger_name, devoured) VALUES ('Krauted House Burger');
+INSERT INTO burgers (burger_name, devoured) VALUES ('I Have Created a Muenster Burger', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Chorizo Your Own Adventure Burger');
+
+
+
